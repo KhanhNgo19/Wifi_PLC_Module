@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=24V Pin=C14-1
+Removed Pin From Net: NetName=24V Pin=C15-2
+Removed Pin From Net: NetName=24V Pin=P5-5
+Removed Pin From Net: NetName=24V Pin=P6-4
+Removed Pin From Net: NetName=24V Pin=P7-1
+Removed Pin From Net: NetName=24V Pin=U31-1
+Added Pin To Net: NetName=24V Pin=B1-4
+Added Pin To Net: NetName=24V Pin=C6-2
+Added Pin To Net: NetName=24V Pin=H1-1
+Added Pin To Net: NetName=24V Pin=R1-2
+Added Pin To Net: NetName=24V Pin=R2-2
+Added Pin To Net: NetName=24V Pin=R3-2
+Added Pin To Net: NetName=24V Pin=R4-2
+Added Pin To Net: NetName=24V Pin=R7-2
+Added Pin To Net: NetName=24V Pin=R8-2
+Added Pin To Net: NetName=24V Pin=U1-8
+Change Net Name : Old Net Name=24V New Net Name=5V_CL
+Added Pin To Net: NetName=24V Pin=C14-1
+Added Pin To Net: NetName=24V Pin=C15-2
+Added Pin To Net: NetName=24V Pin=P5-5
+Added Pin To Net: NetName=24V Pin=P6-4
+Added Pin To Net: NetName=24V Pin=P7-1
+Added Pin To Net: NetName=24V Pin=U31-1
+Added Net: Name=24V
