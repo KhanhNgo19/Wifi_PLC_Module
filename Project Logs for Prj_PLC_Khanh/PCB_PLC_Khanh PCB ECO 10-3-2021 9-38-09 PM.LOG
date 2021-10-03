@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=5V Pin=P8-1
+Removed Pin From Net: NetName=5V Pin=P8-1
+Removed Pin From Net: NetName=NetP8_3 Pin=P8-3
+Removed Pin From Net: NetName=NetP8_3 Pin=P8-3
+Removed Pin From Net: NetName=GND Pin=P8-4
+Change Component Comment : Designator=P8 Old Comment=CON 4 EDG5.08 New Comment=CON 2 EDG5.08
+Change component parameters: Designator = "P8" ("P8"); Footprint = "CON 4 4EDG5.08"; UniqueID = "\GQWOFJZG\HLVJAAAO" ("\GQWOFJZG\HLVJAAAO")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH000759"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 2EDG5.08-2P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP8_3 Pin=P8-1
+Added Pin To Net: NetName=NetP8_3 Pin=P8-1
+Added Pin To Net: NetName=D_IN10 Pin=U3-20
+Change Net Name : Old Net Name=NetP8_3 New Net Name=NetP8_1
