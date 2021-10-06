@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND_DO Pin=P5-1
+Removed Pin From Net: NetName=GND_DO Pin=P9-1
+Removed Pin From Net: NetName=GND_DO Pin=P9-1
+Removed Pin From Net: NetName=GND_DO Pin=Q2-3
+Removed Pin From Net: NetName=GND_DO Pin=Q3-3
+Removed Pin From Net: NetName=GND_DO Pin=Q5-3
+Removed Pin From Net: NetName=GND_DO Pin=Q7-3
+Removed Pin From Net: NetName=GND_DO Pin=Q9-3
+Removed Pin From Net: NetName=GND_DO Pin=Q11-3
+Removed Pin From Net: NetName=GND_DO Pin=Q12-3
+Change Net Name : Old Net Name=GND_DO New Net Name=GND_DO1
+Added Pin To Net: NetName=GND_DO2 Pin=P5-1
+Added Pin To Net: NetName=GND_DO2 Pin=Q3-3
+Added Pin To Net: NetName=GND_DO2 Pin=Q5-3
+Added Pin To Net: NetName=GND_DO2 Pin=Q7-3
+Added Pin To Net: NetName=GND_DO2 Pin=Q12-3
+Added Net: Name=GND_DO2
+Added Pin To Net: NetName=GND_DO3 Pin=P9-1
+Added Pin To Net: NetName=GND_DO3 Pin=P9-1
+Added Pin To Net: NetName=GND_DO3 Pin=Q2-3
+Added Pin To Net: NetName=GND_DO3 Pin=Q9-3
+Added Pin To Net: NetName=GND_DO3 Pin=Q11-3
+Added Net: Name=GND_DO3
+Added Member To Class: ClassName=U_D_Output Member=Component P9 CON 4 EDG5.08
+Added Room: Name=SCH_PLC_Khanh
+Added Room: Name=U_A_Input
+Added Room: Name=U_D_Input
+Added Room: Name=U_D_Output
+Added Room: Name=U_Power
+Added Room: Name=U_PWM_Output
+Added Room: Name=U_RS232
+Added Room: Name=U_RS485
+Added Room: Name=U_WIFI

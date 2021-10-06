@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=DO7 Pin=P4-1
+Removed Pin From Net: NetName=DO6 Pin=P4-2
+Removed Pin From Net: NetName=DO5 Pin=P4-3
+Removed Pin From Net: NetName=DO4 Pin=P4-4
+Removed Pin From Net: NetName=DO3 Pin=P4-5
+Removed Pin From Net: NetName=DO2 Pin=P4-6
+Removed Pin From Net: NetName=DO1 Pin=P4-7
+Removed Pin From Net: NetName=GND_DO Pin=P4-8
+Removed Pin From Net: NetName=DO11 Pin=P5-2
+Removed Pin From Net: NetName=DO10 Pin=P5-3
+Removed Pin From Net: NetName=DO9 Pin=P5-4
+Removed Pin From Net: NetName=DO8 Pin=P5-5
+Removed Pin From Net: NetName=GND_DO Pin=Q6-3
+Removed Pin From Net: NetName=5V_CL Pin=R44-1
+Removed Pin From Net: NetName=GND Pin=U20-2
+Removed Pin From Net: NetName=GND_CL Pin=U20-3
+Removed Member From Class: ClassName=U_D_Output Member=Q6
+Removed Member From Class: ClassName=U_D_Output Member=R44
+Removed Member From Class: ClassName=U_D_Output Member=R49
+Removed Member From Class: ClassName=U_D_Output Member=R50
+Removed Member From Class: ClassName=U_D_Output Member=U20
+Change Component Footprint: Designator=P4 Old Footprint=CON 8 8EDG5.08 New Footprint=CON 5 5EDG5.08
+Change Component Comment : Designator=P4 Old Comment=CON 8 EDG5.08 New Comment=CON 5 EDG5.08
+Change component parameters: Designator = "P4" ("P4"); Footprint = "CON 8 8EDG5.08"; UniqueID = "\FJUHUODK\ZYBKRMNN" ("\FJUHUODK\ZYBKRMNN")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH003589"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 5 2EDG5.08-5P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Component: Designator=P9(CON 4 4EDG5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000979"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 4 2EDG5.08-4P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_DO Pin=P4-1
+Added Pin To Net: NetName=DO4 Pin=P4-2
+Added Pin To Net: NetName=DO3 Pin=P4-3
+Added Pin To Net: NetName=DO2 Pin=P4-4
+Added Pin To Net: NetName=DO1 Pin=P4-5
+Added Pin To Net: NetName=GND_DO Pin=P5-1
+Added Pin To Net: NetName=DO8 Pin=P5-2
+Added Pin To Net: NetName=DO7 Pin=P5-3
+Added Pin To Net: NetName=DO6 Pin=P5-4
+Added Pin To Net: NetName=DO5 Pin=P5-5
+Added Pin To Net: NetName=GND_DO Pin=P9-1
+Added Pin To Net: NetName=GND_DO Pin=P9-1
+Added Pin To Net: NetName=DO11 Pin=P9-2
+Added Pin To Net: NetName=DO11 Pin=P9-2
+Added Pin To Net: NetName=DO10 Pin=P9-3
+Added Pin To Net: NetName=DO10 Pin=P9-3
+Added Pin To Net: NetName=DO9 Pin=P9-4
+Added Member To Class: ClassName=U_D_Output Member=Component P9 CON 4 EDG5.08
+Added Room: Name=SCH_PLC_Khanh
+Added Room: Name=U_A_Input
+Added Room: Name=U_D_Input
+Added Room: Name=U_D_Output
+Added Room: Name=U_Power
+Added Room: Name=U_PWM_Output
+Added Room: Name=U_RS232
+Added Room: Name=U_RS485
+Added Room: Name=U_WIFI
